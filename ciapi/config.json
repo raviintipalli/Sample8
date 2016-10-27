@@ -1,8 +1,25 @@
 {
     "configurations": [
-        {
-            "name": "test"
-                  
+       {
+            "name": "test",
+            "policies": [
+               
+            ],
+            "proxies": [
+			{  
+               "name":"default.xml",
+               "tokens":[  
+                  {  
+                     "xpath":"/ProxyEndpoint/HTTPProxyConnection/VirtualHost",
+                     "value":"default"
+                  }
+               ]
+            }
+               
+            ],
+            "targets": [
+               
+            ]
         },
         {
             "name": "prod",
