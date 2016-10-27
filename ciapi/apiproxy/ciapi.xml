@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="ciapi">
+    <Basepaths>/ciapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1477562372297</CreatedAt>
+    <CreatedBy>ravi.intipalli@accenture.com</CreatedBy>
+    <Description>To Demo CI</Description>
+    <DisplayName>ciapi</DisplayName>
+    <LastModifiedAt>1477563264244</LastModifiedAt>
+    <LastModifiedBy>ravi.intipalli@accenture.com</LastModifiedBy>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>ExtractNameHeader</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+    <validate>false</validate>
+</APIProxy>
