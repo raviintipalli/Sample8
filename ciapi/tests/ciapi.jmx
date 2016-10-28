@@ -77,7 +77,7 @@
             <collectionProp name="Asserion.test_strings">
               <stringProp name="-2005093869">${assertheader}</stringProp>
             </collectionProp>
-            <stringProp name="Assertion.test_field">Assertion.response_headers</stringProp>
+            <stringProp name="Assertion.test_field">Assertion.response_code</stringProp>
             <boolProp name="Assertion.assume_success">true</boolProp>
             <intProp name="Assertion.test_type">2</intProp>
             <stringProp name="TestPlan.comments">dddd</stringProp>
